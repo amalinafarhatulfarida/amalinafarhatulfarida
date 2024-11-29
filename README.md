@@ -46,5 +46,6 @@ Domains of Expertise:
   - Continue crafting engaging training experiences to bridge the gap between data and decision-making.
 
 📫 Connect with Me
-  💼 LinkedIn: Y[our LinkedIn Profile](https://www.linkedin.com/in/amalina-farhatul-farida-mohamad-seliman-a990a3b3/)
+
+  💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/amalina-farhatul-farida-mohamad-seliman-a990a3b3/)
   ✉️ Email: farhatulfarida@gmail.com
